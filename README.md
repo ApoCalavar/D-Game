@@ -1,6 +1,6 @@
 # D-Game
-D-Game Is a Game Developing tool that Uses the D Programing Language
-Scriped in C#
+D-Game Is a Game Developing tool that Uses the D Programing Language.
+Scriped in C#.
 Tutorials:
 1=Window:
 module [Reaplese With Your Defalt Module];
